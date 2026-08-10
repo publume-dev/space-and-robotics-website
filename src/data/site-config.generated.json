@@ -1,0 +1,29 @@
+{
+  "url": "https://space-robotics.publume.dev/",
+  "name": "Space and Robotics",
+  "description": "A bilingual daily briefing on space missions, robotics, and the engineering evidence behind new capabilities.",
+  "tagline": "Daily missions, machines, and measured progress.",
+  "locale": "en",
+  "outputLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "defaultContentLanguage": "en",
+  "publisherName": "Publume Mission Desk",
+  "authorName": "Space and Robotics",
+  "contactUrl": "",
+  "aiDisclosure": "",
+  "socialImageUrl": "",
+  "newsletterUrl": "",
+  "sponsorUrl": "",
+  "showTopics": true,
+  "showScore": false,
+  "showSources": true,
+  "footerText": "",
+  "presentation": {
+    "schemaVersion": 1,
+    "ads": {
+      "provider": "none"
+    }
+  }
+}
